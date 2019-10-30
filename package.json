@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/edmondweiss/edmondw.github.io/issues"
   },
-  "homepage": "https://github.com/edmondweiss/edmondw.github.io#readme"
+  "homepage": "https://github.com/edmondweiss/edmondw.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
 }
